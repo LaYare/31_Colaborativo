@@ -2646,7 +2646,16 @@ fieldset[disabled] .btn-warning.active {
   color: #ffffff;
   background-color: #d9534f;
   border-color: #d43f3a;
+  width: 250px;
+  padding: 10px 30px 10px 30px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 6px;
+  margin-top: 20px;
 }
+
+
+
 .btn-danger:hover,
 .btn-danger:focus,
 .btn-danger.focus,
